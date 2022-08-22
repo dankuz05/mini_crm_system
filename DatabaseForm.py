@@ -66,7 +66,7 @@ def DataEntryLog(name,log):
     '''
 
 
-    server = "mssql-analytics.crm.prod.aservices.tech"
+    server = ""
     database = ""
     username = ""
     password = ""
