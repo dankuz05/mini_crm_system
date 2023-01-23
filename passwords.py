@@ -1,4 +1,4 @@
-server = "mssql-analytics.crm.prod.aservices.tech"
-database = "PressAP"
-username = "AP_read"
-password = "rM6i37Q7"
+server = "" # Указываем сервер
+database = "" # Указываем базу данных
+username = "" # Имя пользователя
+password = "" # Пароль
